@@ -94,3 +94,9 @@ margin: 15px;
 .Filter{
     display: flex;
 }
+
+.User-id{
+    padding: 10px;
+    border: 1px solid black;
+}
+
