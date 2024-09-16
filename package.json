@@ -1,12 +1,12 @@
 {
-  "homepage": "http://gagansalian.github.io/All-about-react/",
+  "homepage": "https://gagansalian.github.io/All-about-react/",
   "name": "react-na",
   "version": "1.0.0",
   "description": "this is the strart of react",
   "scripts": {
     "start": "parcel index.html",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "parcel build index.html",
     "test": "jest"
   },
